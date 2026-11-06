@@ -61,7 +61,6 @@ Feel free to connect with me for all things technology, software engineering, AI
 </details>
 
 <details open>
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 13 Ventura</li>

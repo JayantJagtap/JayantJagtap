@@ -7,17 +7,17 @@ hello! here's a little about me:
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I'm a **Senior Software Engineer and Technical Lead** with 5+ years of experience building scalable, AI-enabled enterprise SaaS applications. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I'm passionate about solving complex problems, engineering scalable solutions, and transforming ideas into impactful products. With a strong foundation in **JavaScript, TypeScript, React.js, Next.js, Node.js, and cloud-native architectures**, I specialize in building high-performance applications from the ground up.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+Throughout my journey, I've led frontend development, helped scale engineering teams from 3 to 40 members, and worked across enterprise SaaS, healthcare technology, and AI-powered applications. My expertise spans **software architecture, multi-tenant systems, microservices, authentication and authorization (OAuth 2.0, OIDC, JWT, RBAC), and AI integrations using LLMs, RAG, and prompt engineering.**
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+I'm particularly interested in leveraging AI to reinvent business processes, build intelligent workflows, and create technology that makes a meaningful difference. I believe in first-principles thinking, continuous learning, clean architecture, and building solutions that scale.
 
-Joined Github **8** years ago.
+Beyond coding, I'm an explorer of emerging technologies, an avid learner, and someone who enjoys diving into tech-related content to stay curious and keep growing.
 
-Since then I pushed **3580**+ commits, opened **229**+ issues, submitted **613**+ pull requests, created **20**+ gists and contributed to **3**+ public repositories.
+Feel free to connect with me for all things technology, software engineering, AI, or just to exchange ideas. Let's build something impactful together! 🌟
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>

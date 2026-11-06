@@ -53,14 +53,14 @@ Feel free to connect with me for all things technology, software engineering, AI
 
 ### Projects and Dev Stuffs:
 
-<details>
+<details open>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantJagtap&hide_border=true" />
 </details>
 
-<details>
+<details open>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -77,11 +77,9 @@ Feel free to connect with me for all things technology, software engineering, AI
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
 </div>
 <h1>
-  i really like music :headphones:
+Here is some music that i love 🎶
 </h1>
 
 <!-- Nothing weird to see here -->

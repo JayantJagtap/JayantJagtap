@@ -19,12 +19,18 @@ Beyond coding, I'm an explorer of emerging technologies, an avid learner, and so
 
 Feel free to connect with me for all things technology, software engineering, AI, or just to exchange ideas. Let's build something impactful together! 🌟
 
+<p align="center">
+  <img height="250" width="375" alt="Coding GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</p>
+
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
+
+
 
 ### Talking about Personal Stuff:
 
